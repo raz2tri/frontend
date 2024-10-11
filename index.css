@@ -1,0 +1,17 @@
+h1 {
+  font-size: 20px;
+  color: #282828;
+  margin-bottom: 50px;
+}
+
+img {
+  margin-bottom: 10px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+.output {
+  color: red;
+}
